@@ -53,6 +53,6 @@ Bu proje MIT lisansı altında lisanslanmıştır - [LICENSE.md](LICENSE.md) dos
 
 ## ✍️ Yazar
 
-Ahmet Balcık
+Ahmet Balçık
 
 Bu dosyalardaki şablonlar, projenize katkıda bulunmak isteyenlerin daha organize ve rehberlik edici bir şekilde iletişim kurmalarına yardımcı olur. Ayrıca, katkıda bulunanları ve sorun açanları doğru bilgilerle yönlendirmenize de olanak tanır.
